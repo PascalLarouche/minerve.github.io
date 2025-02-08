@@ -7,14 +7,3 @@ url: "https://yourusername.github.io"
 
 # Thème
 theme: minima # Par exemple, vous pouvez utiliser 'minima', 'jekyll-theme-slate', etc.
-
-# Configurations supplémentaires
-markdown: kramdown
-highlighter: rouge
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-# Options du blog
-paginate: 5 # Nombre d'articles par page
-paginate_path: "/page:num/"
