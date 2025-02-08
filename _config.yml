@@ -1,3 +1,26 @@
-title: Blogue sur l'intelligence artificielle
-description: Enseignement | Cégep de La Pocatière
-theme:jekyll-theme-minimal
+title: Mon Blog
+description: "Ceci est un blog personnel où je partage mes pensées."
+author: "Votre Nom"
+baseurl: "" # Pour un usage avec un sous-domaine
+url: "https://yourusername.github.io"
+
+# Thème
+theme: minima # Par exemple, vous pouvez utiliser 'minima', 'jekyll-theme-slate', etc.
+
+# Configurations supplémentaires
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Options du blog
+paginate: 5 # Nombre d'articles par page
+paginate_path: "/page:num/"
+
+# Références de votre site
+social_links:
+  - icon: github
+    url: https://github.com/yourusername
+  - icon: twitter
+    url: https://twitter.com/yourusername
