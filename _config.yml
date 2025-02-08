@@ -1,11 +1,11 @@
-title: Mon Blog
-description: "Ceci est un blog personnel où je partage mes pensées."
-author: "Votre Nom"
+title: Minerve : l'IA au collégial
+description: "Ceci est un blog pour l'enseignement de l'intelligence artificielle."
+author: "Pascal Larouche"
 baseurl: "" # Pour un usage avec un sous-domaine
 url: "https://yourusername.github.io"
 
 # Thème
-theme: minima # Par exemple, vous pouvez utiliser 'minima', 'jekyll-theme-slate', etc.
+theme: jekyll-theme-slate # Par exemple, vous pouvez utiliser 'minima', 'jekyll-theme-slate', etc.
 
 # Configurations supplémentaires
 markdown: kramdown
@@ -17,10 +17,3 @@ plugins:
 # Options du blog
 paginate: 5 # Nombre d'articles par page
 paginate_path: "/page:num/"
-
-# Références de votre site
-social_links:
-  - icon: github
-    url: https://github.com/yourusername
-  - icon: twitter
-    url: https://twitter.com/yourusername
