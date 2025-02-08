@@ -5,7 +5,7 @@ baseurl: "" # Pour un usage avec un sous-domaine
 url: "https://yourusername.github.io"
 
 # Thème
-theme: jekyll-theme-slate # Par exemple, vous pouvez utiliser 'minima', 'jekyll-theme-slate', etc.
+theme: minima # Par exemple, vous pouvez utiliser 'minima', 'jekyll-theme-slate', etc.
 
 # Configurations supplémentaires
 markdown: kramdown
