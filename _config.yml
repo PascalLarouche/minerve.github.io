@@ -1,6 +1,7 @@
 title: Mon Blog
 description: "Ceci est un blog personnel où je partage mes pensées."
-author: "Votre Nom"
+author: "Pascal Larouche"
+logo: Images/Roman_baths_2014_70.jpg
 baseurl: "" # Pour un usage avec un sous-domaine
 url: "https://yourusername.github.io"
 
