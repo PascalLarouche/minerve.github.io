@@ -2,7 +2,7 @@
 
 L'intelligence articielle existe depuis les années cinquantes.
 
-![image](Roman_baths_2014_70.jpg)
+![image](images/Roman_baths_2014_70.jpg)
 
 Test d'insertion de code :
 
