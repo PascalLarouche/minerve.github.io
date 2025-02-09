@@ -6,7 +6,7 @@ L'intelligence articielle existe depuis les années cinquantes.
 
 Test d'insertion de code :
 
-'''python
+```python
 x_train = x_train_brut.astype("float32") / 255
 x_test = x_test_brut.astype("float32") / 255
-'''python
+```python
