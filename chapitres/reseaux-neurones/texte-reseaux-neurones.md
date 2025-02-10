@@ -31,7 +31,9 @@ Sur la figure 2, la valeur de $\theta$ est fixée à $2$. Lorsque les valeurs d'
 <p align="center">
   <img src="images/neurone_mp_not_or.jpg" alt="Description de l'image" width="400">
 </p>
-<p align="center" style="font-size: 6px;"><strong>Figure 2 : le neurone de McCulloch et Pitts et l'opérateur «ou» et «non».</strong></p>
+<p align="center" style="font-size: 6px;"><strong>Figure 3 : le neurone de McCulloch et Pitts et l'opérateur «ou» et «non».</strong></p>
+
+La figure $3$ montre deux autres exemples de portes logiques réalisées en fixant judicieusement la valeur de $\theta$, soit le «ou» et le «non».
 
 ## Perceptron de Rosenblatt
 
