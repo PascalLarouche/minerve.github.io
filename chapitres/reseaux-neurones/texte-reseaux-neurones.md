@@ -11,11 +11,10 @@ McCulloch et Pitts (MP) sont les premiers a proposer un neurone artificiel (plus
 Les seules valeurs possibles en entrée sont binaires : 0 ou 1. Comme pour les neurones biologiques, ce neurone possède une entrée inhibitrice (identifiée par un petit cercle à l'extrémité de la connection). Les entrée $x_i$ reçues par le neurone sont simplement additionnées et comparées à une valeur seuil $\theta$, ce qui détermine la sortie :
 
 $$
-X(m,n)=
+y=
 \begin{cases}
-x(n),\\
-x(n-1)\\
-x(n-1)
+0,\\
+1
 \end{cases}
 $$
 
