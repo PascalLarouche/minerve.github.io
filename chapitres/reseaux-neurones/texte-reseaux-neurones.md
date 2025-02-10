@@ -48,7 +48,10 @@ Directement inspiré par les travaux de MP, le psychologue Frank Rosenblatt imag
 
 Tout d'abord, Rosenblatt retire l'entrée inhibitrice du neurone de MP et permet les entrées de toutes valeurs ; de plus, il ajoute une pondération à chaque entrée qui multiplie cette dernière avant d'additionner le résultat.
 
-
+<p align="center">
+  <img src="images/neurone_rosenblatt.jpg" alt="Description de l'image" width="400">
+</p>
+<p align="center" style="font-size: 6px;"><strong>Figure 5 : structure du neurone de Rosenblatt.</strong></p>
 
 ## Réseaux profonds
 
