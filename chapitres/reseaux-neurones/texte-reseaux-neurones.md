@@ -35,11 +35,18 @@ Sur la figure 2, la valeur de $\theta$ est fixée à $2$. Lorsque les valeurs d'
 
 La figure 3 montre deux autres exemples de portes logiques réalisées en fixant judicieusement la valeur de $\theta$, soit le «ou» et le «non». Notons finalement qu'il est possible de combiner les neurones ensembles de façon à ce que la sortie d'un premier serve d'entrée à un second, augmentant ainsi la richesse des structures construites avec ces neurones.
 
-En dépit de leur caractère orginal, les neurones de MP n'ont, essentiellement, pas été employés à des tâches concrètes étant donné leur trop grande simplicité qui ne permet pas de modéliser des ensembles de données complexes. Malgré tout, la contribution de McCullogh et Pitts peut être considérée comme étant le point de départ de la révolution en intelligence artificielle.
+En dépit de leur caractère orginal, les neurones de MP n'ont, essentiellement, pas été employés à des tâches concrètes étant donné leur trop grande simplicité qui ne permet pas de modéliser des ensembles de données complexes. Surtout, en accumulant de tels neurones, ajuster tous les coefficients $\theta$ devient rapidement une tâche fastidieuse. Malgré tout, la contribution de McCulloch et Pitts peut être considérée comme étant le point de départ de la révolution en intelligence artificielle.
 
 ## Perceptron de Rosenblatt
 
-Directement inspiré par les travaux de MP, le psychologue Rosenblatt imagine un nouveau type de neurone. Il retire l'entrée inhibitrice et rend possible les entrées de toutes valeurs ; de plus, il ajoute une pondération à chaque entrée qui multiplie cette dernière.
+Directement inspiré par les travaux de MP, le psychologue Frank Rosenblatt imagine un nouveau type de neurone en tentant de reproduire les prouesses des cellules du système visuel. 
+
+<p align="center">
+  <img src="images/cellule_rosenblatt.jpg" alt="Description de l'image" width="400">
+</p>
+<p align="center" style="font-size: 6px;"><strong>Figure 2 : le neurone de McCulloch et Pitts et l'opérateur «et».</strong></p>
+
+Il retire l'entrée inhibitrice et rend possible les entrées de toutes valeurs ; de plus, il ajoute une pondération à chaque entrée qui multiplie cette dernière.
 
 ## Réseaux profonds
 
