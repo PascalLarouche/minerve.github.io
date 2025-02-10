@@ -8,4 +8,4 @@ McCulloch et Pitts (MP) sont les premiers a proposer un neurone artificiel (plus
   <img src="images/neurone_mp_schema.jpg" alt="Description de l'image" width="400">
 </figure>
 
-Comme les neurones biologiques, ce neurone possède des entrées inhibitrices.
+Les seules valeurs possibles en entrée sont binaires : 0 ou 1. Comme pour les neurones biologiques, ce neurone possède une entrée inhibitrices (identifiée par un petit cercle à l'extrémité de la connection).
