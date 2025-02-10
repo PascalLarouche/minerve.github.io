@@ -34,3 +34,7 @@ Un problème simple et classique pour illustrer le fonctionnement d'un réseau d
 ## Représentation universelle
 
 La propriété la plus importante d'un réseau profond est le théorème de représentation universelle.
+
+### Références
+
+Ananthaswamy, Anand. Why Machines Learn: The Elegant Math Behind Modern AI
