@@ -38,3 +38,5 @@ La propriété la plus importante d'un réseau profond est le théorème de repr
 ### Références
 
 Ananthaswamy, Anand (2024) Why Machines Learn: The Elegant Math Behind Modern AI
+
+Rojas, Paul (1996) Neural Networks: A Systematic Introduction
