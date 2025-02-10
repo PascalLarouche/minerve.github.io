@@ -29,7 +29,7 @@ Malgré son étonnante simplicité, la structure imaginée par MP peut reproduir
 Sur la figure 2, la valeur de $\theta$ est fixée à $2$. Lorsque les valeurs d'entrées sont $(0, 0)$ ou $(0, 1)$, leur somme est inférieure à $\theta = 2$, ce qui provoque une sortie $y = 0$. Toutefois, lors que les entrées sont $(1, 1)$, leur somme est $2$ et le neurone produit une sortie égale à $1$, ce qui correspondant, en tout point, au comportement d'une porte logique «et».
 
 <p align="center">
-  <img src="images/neurone_mp_not_or.jpg" alt="Description de l'image" width="300">
+  <img src="images/neurone_mp_not_or.jpg" alt="Description de l'image" width="400">
 </p>
 <p align="center" style="font-size: 6px;"><strong>Figure 3 : le neurone de McCulloch et Pitts et l'opérateur «ou» et «non».</strong></p>
 
@@ -49,7 +49,7 @@ Directement inspiré par les travaux de MP, le psychologue Frank Rosenblatt imag
 Tout d'abord, Rosenblatt retire l'entrée inhibitrice du neurone de MP et permet les entrées de toutes valeurs ; de plus, il ajoute une pondération à chaque entrée qui multiplie cette dernière avant d'additionner le résultat.
 
 <p align="center">
-  <img src="images/neurone_rosenblatt.jpg" alt="Description de l'image" width="400">
+  <img src="images/neurone_rosenblatt.jpg" alt="Description de l'image" width="300">
 </p>
 <p align="center" style="font-size: 6px;"><strong>Figure 5 : structure du neurone de Rosenblatt.</strong></p>
 
