@@ -12,7 +12,7 @@ Les seules valeurs possibles en entrée sont binaires : 0 ou 1. Comme pour les n
 
 ## Perceptron de Rosenblatt
 
-Directement inspiré par les travaux de MP, le psychologiste Rosenblatt imagine un nouveau type de neurone.
+Directement inspiré par les travaux de MP, le psychologue Rosenblatt imagine un nouveau type de neurone. Il retire l'entrée inhibitrice et rend possible les entrées de toutes valeurs ; de plus, il ajoute une pondération à chaque entrée qui multiplie cette dernière.
 
 ## Réseaux profonds
 
