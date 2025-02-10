@@ -13,7 +13,7 @@ Les seules valeurs possibles en entrée sont binaires : 0 ou 1. Comme pour les n
 $$
 y=
 \begin{cases}
-0,\\
+0 \leftrightarrow \sum x_{i} < 0\\
 1
 \end{cases}
 $$
