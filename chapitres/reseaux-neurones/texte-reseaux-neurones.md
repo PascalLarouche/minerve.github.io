@@ -9,3 +9,7 @@ McCulloch et Pitts (MP) sont les premiers a proposer un neurone artificiel (plus
 </figure>
 
 Les seules valeurs possibles en entrée sont binaires : 0 ou 1. Comme pour les neurones biologiques, ce neurone possède une entrée inhibitrices (identifiée par un petit cercle à l'extrémité de la connection).
+
+## Perceptron de Rosenblatt
+
+Directement inspiré par les travaux de MP, le psychologiste Rosenblatt imagine un nouveau type de neurone.
