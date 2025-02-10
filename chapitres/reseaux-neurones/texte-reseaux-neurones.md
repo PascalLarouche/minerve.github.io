@@ -26,6 +26,7 @@ Malgré son étonnante simplicité, la structure imaginée par MP peut reproduir
 </p>
 <p align="center" style="font-size: 6px;"><strong>Figure 2 : le neurone de McCulloch et Pitts et l'opérateur «et».</strong></p>
 
+Sur la figure 2, la valeur de $\theta$ est fixée à $2$. Lorsque les valeurs d'entrées sont $(0, 0)$, $(0, 1)$, leur somme est inférieure à $\theta = 2$, ce qui provoque une sortie $y = 0$. Toutefois, lors que les entrées sont $(1, 1)$, leur somme est $2$ et le neurone produit une sortie égale à $1$, ce qui correspondant, en tout point, au comportement d'une porte logique «et».
 
 ## Perceptron de Rosenblatt
 
