@@ -44,9 +44,11 @@ Directement inspiré par les travaux de MP, le psychologue Frank Rosenblatt imag
 <p align="center">
   <img src="images/cellule_rosenblatt.jpg" alt="Description de l'image" width="400">
 </p>
-<p align="center" style="font-size: 6px;"><strong>Figure 2 : le neurone de McCulloch et Pitts et l'opérateur «et».</strong></p>
+<p align="center" style="font-size: 6px;"><strong>Figure 4 : le neurone de Rosenblatt.</strong></p>
 
-Il retire l'entrée inhibitrice et rend possible les entrées de toutes valeurs ; de plus, il ajoute une pondération à chaque entrée qui multiplie cette dernière.
+Tout d'abord, Rosenblatt retire l'entrée inhibitrice du neurone de MP et permet les entrées de toutes valeurs ; de plus, il ajoute une pondération à chaque entrée qui multiplie cette dernière avant d'additionner le résultat.
+
+
 
 ## Réseaux profonds
 
