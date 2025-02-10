@@ -35,6 +35,8 @@ Sur la figure 2, la valeur de $\theta$ est fixée à $2$. Lorsque les valeurs d'
 
 La figure 3 montre deux autres exemples de portes logiques réalisées en fixant judicieusement la valeur de $\theta$, soit le «ou» et le «non». Notons finalement qu'il est possible de combiner les neurones ensembles de façon à ce que la sortie d'un premier serve d'entrée à un second, augmentant ainsi la richesse des structures construites avec ces neurones.
 
+En dépit de leur caractère orginal, les neurones de MP n'ont, essentiellement, pas été employés à des tâches concrètes étant donné leur trop grande simplicité qui ne permet pas de modéliser des ensembles de données complexes. Malgré tout, la contribution de McCullogh et Pitts peut être considérée comme étant le point de départ de la révolution en intelligence artificielle.
+
 ## Perceptron de Rosenblatt
 
 Directement inspiré par les travaux de MP, le psychologue Rosenblatt imagine un nouveau type de neurone. Il retire l'entrée inhibitrice et rend possible les entrées de toutes valeurs ; de plus, il ajoute une pondération à chaque entrée qui multiplie cette dernière.
