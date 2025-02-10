@@ -33,7 +33,7 @@ Sur la figure 2, la valeur de $\theta$ est fixée à $2$. Lorsque les valeurs d'
 </p>
 <p align="center" style="font-size: 6px;"><strong>Figure 3 : le neurone de McCulloch et Pitts et l'opérateur «ou» et «non».</strong></p>
 
-La figure $3$ montre deux autres exemples de portes logiques réalisées en fixant judicieusement la valeur de $\theta$, soit le «ou» et le «non».
+La figure 3 montre deux autres exemples de portes logiques réalisées en fixant judicieusement la valeur de $\theta$, soit le «ou» et le «non». Notons finalement qu'il est possible de combiner les neurones ensembles de façon à ce que la sortie d'un premier serve d'entrée à un second, augmentant ainsi la richesse des structures construites avec ces neurones.
 
 ## Perceptron de Rosenblatt
 
