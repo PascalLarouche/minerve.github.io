@@ -6,7 +6,7 @@ McCulloch et Pitts (MP) sont les premiers a proposer un neurone artificiel (plus
 
 <p align="center">
   <img src="images/neurone_mp_schema.jpg" alt="Description de l'image" width="400">
-  <figcaption style="font-size: 10px;">Titre de la figure : Description de l'image.</figcaption>
+  <figcaption style="font-size: 10px; align="center";">Titre de la figure : Description de l'image.</figcaption>
 </p>
 
 <p align="center">
