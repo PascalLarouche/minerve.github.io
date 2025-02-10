@@ -37,4 +37,4 @@ La propriété la plus importante d'un réseau profond est le théorème de repr
 
 ### Références
 
-Ananthaswamy, Anand. Why Machines Learn: The Elegant Math Behind Modern AI
+Ananthaswamy, Anand (2024) Why Machines Learn: The Elegant Math Behind Modern AI
