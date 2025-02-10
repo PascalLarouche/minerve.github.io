@@ -13,3 +13,15 @@ Les seules valeurs possibles en entrée sont binaires : 0 ou 1. Comme pour les n
 ## Perceptron de Rosenblatt
 
 Directement inspiré par les travaux de MP, le psychologiste Rosenblatt imagine un nouveau type de neurone.
+
+## Réseaux profonds
+
+Si Rosenblatt avait imaginé accumuler des neurones sur plusieurs couches, il n'avait pas été en mesure d'élaborer une technique pour les entraîner.
+
+## Exemple : chats et chiens
+
+Un problème simple et classique pour illustrer le fonctionnement d'un réseau de neurones est le jeu de données chats et chiens.
+
+## Représentation universelle
+
+La propriété la plus importante d'un réseau profond est le théorème de représentation universelle.
