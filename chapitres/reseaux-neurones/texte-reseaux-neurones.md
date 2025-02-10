@@ -10,14 +10,14 @@ McCulloch et Pitts (MP) sont les premiers a proposer un neurone artificiel (plus
 
 Les seules valeurs possibles en entrée sont binaires : 0 ou 1. Comme pour les neurones biologiques, ce neurone possède une entrée inhibitrice (identifiée par un petit cercle à l'extrémité de la connection). Les entrée $x_i$ reçues par le neurone sont simplement additionnées et comparées à une valeur seuil $\theta$, ce qui détermine la sortie :
 
-\begin{equation}
+$$
   \left\{
   \begin{aligned}
     \Th(\flow_1) &=  G \\
     \Th(\flow_2) &= \ldots
   \end{aligned}
   \right.
-\end{equation}
+$$
 
 ## Perceptron de Rosenblatt
 
