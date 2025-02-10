@@ -8,7 +8,7 @@ McCulloch et Pitts (MP) sont les premiers a proposer un neurone artificiel (plus
   <img src="images/neurone_mp_schema.jpg" alt="Description de l'image" width="400">
 </figure>
 
-Les seules valeurs possibles en entrée sont binaires : 0 ou 1. Comme pour les neurones biologiques, ce neurone possède une entrée inhibitrice (identifiée par un petit cercle à l'extrémité de la connection). Les entrées $x_i$ reçues par le neurone sont simplement additionnées et comparées à une valeur seuil $\theta$, ce qui détermine la sortie qui est, comme les entrées, binaires :
+Les seules valeurs possibles en entrée sont binaires : 0 ou 1. Comme pour les neurones biologiques, ce neurone possède une entrée inhibitrice (identifiée par un petit cercle à l'extrémité de la connection). Les entrées $x_i$ reçues par le neurone sont simplement additionnées et comparées à une valeur seuil $\theta$, ce qui détermine la sortie qui est, comme les entrées, binaire :
 
 $$
 y=
