@@ -2,14 +2,14 @@
 
 ## Neurones de McCulloch et Pitts
 
-McCulloch et Pitts (MP) sont les premiers a proposer un neurone artificiel (plus ou moins) inspiré par les neurones biologiques. La figure suivante montre un schéma du neurone de MP.
+McCulloch et Pitts (MP) furent les premiers à proposer un neurone artificiel (plus ou moins) inspiré par les neurones biologiques. La figure suivante montre un schéma du neurone de MP.
 
 <p align="center">
   <img src="images/neurone_mp_schema.jpg" alt="Description de l'image" width="400">
 </p>
 <p align="center" style="font-size: 6px;"><strong>Figure 1 : le neurone de McCulloch et Pitts.</strong></p>
 
-Les seules valeurs possibles en entrée sont binaires : 0 ou 1. Comme pour les neurones biologiques, ce neurone possède une entrée inhibitrice (identifiée par un petit cercle à l'extrémité de la connection). Les entrées $x_i$ reçues par le neurone sont simplement additionnées et comparées à une valeur seuil $\theta$, ce qui détermine la sortie qui est, comme les entrées, binaire :
+Les seules valeurs possibles en entrée sont binaires (c'est-à-dire 0 ou 1). Comme pour les neurones biologiques, ce neurone possède une entrée inhibitrice (identifiée par un petit cercle à l'extrémité de la connection). Les entrées $x_i$ reçues par le neurone sont simplement additionnées et comparées à une valeur seuil $\theta$, ce qui détermine la sortie qui est, elle aussi, binaire :
 
 $$
 y=
@@ -18,6 +18,14 @@ y=
 1 \iff \sum x_{i} \geq \theta
 \end{cases}
 $$
+
+Malgré son étonnante simplicité, la structure imaginée par MP peut reproduire plusieurs opérations logiques comme, par exemple, l'opérateur «et».
+
+<p align="center">
+  <img src="images/neurone_mp_et.jpg" alt="Description de l'image" width="400">
+</p>
+<p align="center" style="font-size: 6px;"><strong>Figure 2 : le neurone de McCulloch et Pitts et l'opérateur «et».</strong></p>
+
 
 ## Perceptron de Rosenblatt
 
